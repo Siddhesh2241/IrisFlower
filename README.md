@@ -25,14 +25,14 @@ To run this app locally, follow these steps:
 
 ## Usage 
 
-. Open the app in your web browser at http://localhost:8501.
-. Use the sliders in the sidebar to input the sepal length, sepal width, petal length, and petal width.
-. The app will display the predicted Iris flower type and the prediction probabilities.
+- Open the app in your web browser at http://localhost:8501.
+- Use the sliders in the sidebar to input the sepal length, sepal width, petal length, and petal width.
+- The app will display the predicted Iris flower type and the prediction probabilities.
 
 ## Files
-.app.py: The main Streamlit app file.
-.requirements.txt: The file listing all required Python packages.
-.README.md: This readme file.
+- app.py: The main Streamlit app file.
+- requirements.txt: The file listing all required Python packages.
+- README.md: This readme file.
 
 ## Iris Dataset
 The Iris dataset consists of 150 samples from each of three species of Iris flowers (Iris setosa, Iris virginica, and Iris versicolor). 
